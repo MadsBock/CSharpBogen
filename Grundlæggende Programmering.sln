@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World (Kap 0)", "Hell
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IF Sætninger (Kap 3)", "IfSætninger\IF Sætninger (Kap 3).csproj", "{EE661EDF-5FEC-40E4-920F-46FE2E66D709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{D657B955-52CF-4DB1-A949-9B9D556C7D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{D657B955-52CF-4DB1-A949-9B9D556C7D63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funktioner (Kap 6)", "Funktioner\Funktioner (Kap 6).csproj", "{DED17929-B887-440B-AA52-46FD1C3589EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Objekter", "Simple Objekter\Simple Objekter.csproj", "{99C0B6A6-5DEC-4C9E-97FF-4CD19D071C2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{D657B955-52CF-4DB1-A949-9B9D556C7D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D657B955-52CF-4DB1-A949-9B9D556C7D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D657B955-52CF-4DB1-A949-9B9D556C7D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED17929-B887-440B-AA52-46FD1C3589EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED17929-B887-440B-AA52-46FD1C3589EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED17929-B887-440B-AA52-46FD1C3589EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED17929-B887-440B-AA52-46FD1C3589EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C0B6A6-5DEC-4C9E-97FF-4CD19D071C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C0B6A6-5DEC-4C9E-97FF-4CD19D071C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C0B6A6-5DEC-4C9E-97FF-4CD19D071C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C0B6A6-5DEC-4C9E-97FF-4CD19D071C2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

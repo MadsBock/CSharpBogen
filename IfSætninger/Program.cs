@@ -97,11 +97,11 @@ namespace IF_Sætninger
              */
 
 
-
+            //int foo = 0;
+            //int bar = 0;
             /* TODO Opgave 8: Du skal nu lave en if struktur. Den skal have afhænge af ovenstående to variabler, foo og bar
              * Hvis foo er mindre end 15 skal du tjekke om bar er større end foo. Hvis den er skriver du Works. Ellers skriver du Error.
              * Ellers skal du tjekke om bar er mindre end 15, og skrive error i konsollen hvis den er. Ellers skriver du Works.
-             * Hvis foo er større eller ligmed 15 
              * Test gerne med forskellige værdier af foo og bar
              */
 

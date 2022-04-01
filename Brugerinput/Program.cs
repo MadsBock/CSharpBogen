@@ -46,7 +46,6 @@ namespace Brugerinput
             //TODO Opgave 6: Lav et lille program som kan bede brugeren skrive to tal, og derefter fortælle ham hvad summen af de to tal er.
 
             //TODO Opgave 7: Lav et lille program hvor brugeren skal gætte et tal imellem 1 og 10. Giv brugeren 3 gæt til at gætte rigtigt.
-            //NOTE: Nogen af jer kunne måske finde på at bruge loops til ovenstående opgave. Indtil videre, så hold jer til at lave opgaven uden.
         }
     }
 }
